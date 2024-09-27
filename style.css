@@ -1,0 +1,212 @@
+body{
+    width: 90%;
+    margin: 10%;
+    margin-top: 1px;
+    font-family: sans-serif;
+}
+.green{
+    width: 80%;
+    height: 280px;
+    margin-top: 70px;
+    border-radius: 25px;
+    background-color: green;
+    color: white;
+}
+blockquote{
+    color: red;
+    font-size: 25px;
+    margin-top: none;
+    text-align: center;
+    margin-top: -40px;
+    text-decoration: underline;
+}
+.green h1{
+    font-size: 100px;
+    text-align: center;
+    margin-top: -240px;
+    margin-left: 30px;
+}
+#logo{
+    text-align: left;
+    margin-left: 40px;
+    margin-top: none;
+}
+#logo2{
+    width: 90px;
+    height: 90px;
+}
+.backg{
+    width: 80%;
+    margin-top: 80px;
+}
+.backg h1{
+    margin-left: 100px;
+    margin-top: -60px;
+    background-color: green;
+}
+.navbar ul li{
+    display: inline;
+    margin-left: 60px;
+}
+.navbar ul{
+    margin-left: 70px;
+    margin-top: 40px
+}
+.navbar ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+}
+.navbar ul li a:hover{
+    color: green;
+    background-color: white;
+    text-decoration: underline;
+    border-radius: 20px;
+}
+.navbar{
+    background-color: red;
+    width: 80%;
+}
+#pres{
+    margin-top: 80px;
+    border-radius: 30px;
+    border-color: green;
+    width: 350px;
+    height: 500px;
+    margin-top: 180px;
+}
+hr{
+    width: 80%;
+    margin-left: -2px;
+}
+#edit{
+    margin-left: 50px;
+    text-decoration: underline;
+}
+.side{
+    width: 600px;
+    height: 200px;
+    margin-left: 450px;
+    margin-top: -270px;
+    background-color: lightgray;
+    border-radius: 25px;
+    border-style: groove;
+    border-left-color: red;
+    border-right-color: red;
+    text-align: center;
+}
+.foot{
+    width: 50%;
+    margin-left: 10px;
+    margin-top: 400px;
+    text-align: center;
+    border-style: groove;
+    border-color: green;
+    height: fit-content;
+}
+#comments{
+    width: 300px;
+    height: 100px;
+    margin-top: 100px;
+}
+button{
+    margin-left: 367px;
+}
+button:hover{
+    color: white;
+    background-color: green;
+}
+.grey{
+    width: 80%;
+    height: fit-content;
+    margin-top: 80px;
+}
+.grey p{
+    margin-top: -40px;
+    margin-left: 500px;
+}
+marquee{
+    background-color: green;
+    color: white;
+    width: 80%;
+}
+li{
+    display: flex;
+}
+#tree{
+    margin-top: -300px;
+    margin-left: 400px;
+}
+.write{
+    width: 60%;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.brief{
+    width: 80%;
+    text-align: center;
+    margin-top: 150px;
+    height: fit-content;
+    border-radius: 30px;
+    border-style: groove;
+    border-color: green;
+}
+.briefs{
+    width: 40%;
+    text-align: center;
+    height: fit-content;
+    border-radius: 30px;
+    border-style: groove;
+    border-color: green;
+    margin-left: 270px;
+    margin-top: 60px;
+}
+#baba{
+    border-radius: 30px;
+}
+.photo{
+    margin-left: 300px;
+    margin-top: -800px;
+    text-align: center;
+}
+.photos{
+    margin-top: 100px;
+}
+.nzem h2{
+    margin-left: 200px;
+    margin-top: -80px;
+}
+video{
+    border-style: double;
+    border-left-color: green;
+    border-right-color: green;
+    border-top-color: red;
+    border-bottom-color: red;
+    margin-top: 70px;
+    margin-left: 160px;
+    border-width: 9px;
+}
+#img1, #img2, #img3{
+    border-radius: 20px;
+    border-color: green;
+    margin-top: 90px;
+}
+#img2{
+    margin-left: 70px;
+}
+#img3{
+    margin-left: 70px;
+}
+.body{
+    width: 60%;
+    text-align: center;
+    margin-top: 50px;
+}
+.nubesUJ{
+    margin-top: 90px;
+}
+.nubesUJ h2{
+    color: red;
+}
